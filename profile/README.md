@@ -14,7 +14,7 @@
 
 <p align="center"> A brand new, experimental Arch-adjacent Linux distribution. </p>
 
-<h2 align="center"> ⬇⬇ The Boring, Yet Important Stuff ⬇⬇ </h2>
+<!-- <h2 align="center"> ⬇⬇ The Boring, Yet Important Stuff ⬇⬇ </h2> -->
 
 <h3> Licensing: </h3>
 <p align="left"> All software, unless explicitly stated, is licensed under the MIT license as stated in the organisation-wide <a href="https://github.com/ikeda-linux/.github/blob/main/LICENSE">LICENSE</a> file.</p>
