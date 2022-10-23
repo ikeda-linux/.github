@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://github.com/crystal-linux/.github/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="Code of conduct"></img></a>
 <br>
-<h3>We're moving to <a href="https://git.getcryst.al/world/ikeda/">GitLab</a>.</h3>
+<h3 align="center">We're moving to <a href="https://git.getcryst.al/world/ikeda/">GitLab</a>.</h3>
 
 
 <p align="center"> A brand new, experimental Arch-adjacent Linux distribution. </p>
